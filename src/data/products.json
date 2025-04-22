@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Акции",
+    "infos": [
+      {
+        "id":1,
+        "product_img": "/public/cardone.png",
+        "product_skidka": "50%",
+        "product_plastik": "44,50₽",
+        "product_money": "50,50₽",
+        "product_desc": "Yo'g 2",
+        "start": [true, true, true, true, true]
+      },
+      {
+        "id":2,
+        "product_img": "/public/cardone.png",
+        "product_skidka": "50%",
+        "product_plastik": "44,50₽",
+        "product_money": "50,50₽",
+        "product_desc": "Yo'g 3",
+        
+        "start": [true, true, true, false, false]
+      },{
+        "product_img": "/public/cardone.png",
+        "product_skidka": "50%",
+        "product_plastik": "44,50₽",
+        "product_money": "50,50₽",
+        "product_desc": "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
+        "start": [true, true, true, true, true]
+      },{
+        "product_img": "/public/cardone.png",
+        "product_skidka": "50%",
+        "product_plastik": "44,50₽",
+        "product_money": "50,50₽",
+        "product_desc": "Сосиски вареные МЯСНАЯ ИСТОРИЯ Молочные и С сыро...",
+        "start": [false, false, false, false, false]
+      }
+    ]
+  },
+  {
+    "title": "Новинки",
+    "infos": [
+      {
+        "product_img": "/public/cardone.png",
+        "product_skidka": "50%",
+        "product_plastik": "44,50₽",
+        "product_money": "50,50₽",
+        "product_desc": "Г/Ц Блинчики с мясом вес, Россия",
+        "start": [true, true, false, false, false]
+      },
+      {
+        "product_img": "/public/cardone.png",
+        "product_skidka": "50%",
+        "product_plastik": "44,50₽",
+        "product_money": "50,50₽",
+        "product_desc": "Молоко ПРОСТОКВАШИНО паст. питьевое цельное отборное...",
+        "start": [true, true, false, false, false]
+      },
+      {
+        "product_img": "/public/cardone.png",
+        "product_skidka": "50%",
+        "product_plastik": "44,50₽",
+        "product_money": "50,50₽",
+        "product_desc": "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
+        "start": [true, true, true, true, true]
+      },
+      {
+        "product_img": "/public/cardone.png",
+        "product_skidka": "50%",
+        "product_plastik": "44,50₽",
+        "product_money": "50,50₽",
+        "product_desc": "Сосиски вареные МЯСНАЯ ИСТОРИЯ Молочные и С сыро...",
+        "start": [true, true, true, true, true]
+      }
+    ]
+  },
+  {
+    "title": "Покупали раньше",
+    "infos": [
+      {
+        "product_img": "/public/cardone.png",
+        "product_skidka": "50%",
+        "product_plastik": "44,50₽",
+        "product_money": "50,50₽",
+        "product_desc": "Г/Ц Блинчики с мясом вес, Россия",
+        "start": [true, true, false, false, false]
+      },
+      {
+        "product_img": "/public/cardone.png",
+        "product_skidka": "50%",
+        "product_plastik": "44,50₽",
+        "product_money": "50,50₽",
+        "product_desc": "Молоко ПРОСТОКВАШИНО паст. питьевое цельное отборное...",
+        "start": [true, true, false, false, false]
+      },
+      {
+        "product_img": "/public/cardone.png",
+        "product_skidka": "50%",
+        "product_plastik": "44,50₽",
+        "product_money": "50,50₽",
+        "product_desc": "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...",
+        "start": [true, true, true, true, true]
+      },
+      {
+        "product_img": "/public/cardone.png",
+        "product_skidka": "50%",
+        "product_plastik": "44,50₽",
+        "product_money": "50,50₽",
+        "product_desc": "Сосиски вареные МЯСНАЯ ИСТОРИЯ Молочные и С сыро...",
+        "start": [true, true, true, true, true]
+      }
+    ]
+  }
+]
